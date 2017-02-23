@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logstash Plugin
 
 [![Travis Build Status](https://travis-ci.org/logstash-plugins/logstash-output-solr_http.svg)](https://travis-ci.org/logstash-plugins/logstash-output-solr_http)
