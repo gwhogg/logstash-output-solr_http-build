@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    jar-dependencies (0.3.10)
+    logstash-core-event-java (5.1.1.1-java)
+      jar-dependencies
+      ruby-maven (~> 3.3.9)
+    ruby-maven (3.3.12)
+      ruby-maven-libs (~> 3.3.9)
+    ruby-maven-libs (3.3.9)
+
+PLATFORMS
+  java
+
+DEPENDENCIES
+  logstash-core-event-java (= 5.1.1.1)
+
+BUNDLED WITH
+   1.14.5
